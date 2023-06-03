@@ -1,6 +1,9 @@
 # Student-Unicorn-Analysis-Dashboard
 
 ## TASK 1: Data Visualization
+
+[Power Bi Dashboard Link](https://app.powerbi.com/links/bYafAOE9oT?ctid=88f39ece-f108-49cf-97b6-f4ae2d89ba76&pbi_source=linkShare)
+
 ![image](https://github.com/Niktiru/Student-Unicorn-Analysis-Dashboard/assets/109805535/8cceb25b-7c74-49fd-89c0-756f1f64a2bf)
 
 
