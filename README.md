@@ -1,4 +1,4 @@
-# Student-Unicorn-Analysis-Dashboard
+# Student Unicorn Analysis Dashboard
 
 ## TASK 1: Data Visualization
 
